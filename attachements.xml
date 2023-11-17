@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.0" type="plugin" group="Content">
+	<name>attachements</name>
+	<author>Sebastien LHUILLIER</author>
+	<creationDate>Octobre 2023</creationDate>
+	<copyright>Sébastien LHUILLIER</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>sebastien.lhuillier+joomla@gmail.com</authorEmail>
+	<authorUrl>www.sebastien-lhuillier.com</authorUrl>
+	<version>1.0</version>
+	<description>Ce plugin permet d'afficher l'ensemle des PJ de sebastien-lhuillier.com</description>
+	<files>
+		<filename plugin="attachements">attachements.php</filename>
+		<filename>attachements.xml</filename>			
+		<filename>style.css</filename>	
+	</files>
+</extension>
